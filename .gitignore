@@ -1,0 +1,11 @@
+*.exe
+
+/dir_3000/
+/dir_4000/
+
+/bin/
+/pkg/
+/vendor/
+
+.idea/
+.vscode/
