@@ -1,6 +1,7 @@
 # Distributed File System
 
-This project implements a Go-based peer-to-peer (P2P) distributed file system that allows nodes to communicate, transfer, store, and retrieve files over a TCP network. The system utilizes various encoding, encryption, and transport mechanisms to ensure efficient and secure file transfers.
+This project implements a Go-based peer-to-peer (P2P) distributed file system that allows nodes to communicate, transfer, store, and retrieve files over a TCP network. The system utilizes various encoding, encryption, and transport mechanisms to ensure efficient and secure file transfers. Here's a high-level diagram of Distributed File System:
+![High-Level Diagram of Distributed File System](godfs_diagram.png)
 
 ## Features
 
