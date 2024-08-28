@@ -119,10 +119,6 @@ Test files include:
 - `crypto_test.go`
 - `storage_test.go`
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to contribute, report issues, or request features by opening a GitHub issue in the repository.
