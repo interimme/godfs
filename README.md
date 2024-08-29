@@ -26,7 +26,6 @@ This project implements a Go-based peer-to-peer (P2P) distributed file system th
    - [File Server](#file-server)
    - [Storage](#storage)
 4. [Testing](#testing)
-5. [License](#license)
 
 ## Installation
 
@@ -121,4 +120,4 @@ Test files include:
 
 ---
 
-Feel free to contribute, report issues, or request features by opening a GitHub issue in the repository.
+Feel free to contribute, report issues, or request features by opening a GitHub issue in the repository!
